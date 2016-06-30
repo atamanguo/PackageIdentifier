@@ -1,0 +1,5 @@
+C:\Users\GuoZhi\Source\Workspaces\ExerciseProject\PackageIdentifier\PackageIdentifier.Common\bin\Debug\PackageIdentifier.Common.dll
+C:\Users\GuoZhi\Source\Workspaces\ExerciseProject\PackageIdentifier\PackageIdentifier.Common\bin\Debug\PackageIdentifier.Common.pdb
+C:\Users\GuoZhi\Source\Workspaces\ExerciseProject\PackageIdentifier\PackageIdentifier.Common\obj\Debug\PackageIdentifier.Common.csprojResolveAssemblyReference.cache
+C:\Users\GuoZhi\Source\Workspaces\ExerciseProject\PackageIdentifier\PackageIdentifier.Common\obj\Debug\PackageIdentifier.Common.dll
+C:\Users\GuoZhi\Source\Workspaces\ExerciseProject\PackageIdentifier\PackageIdentifier.Common\obj\Debug\PackageIdentifier.Common.pdb

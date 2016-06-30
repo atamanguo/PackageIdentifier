@@ -1,0 +1,11 @@
+C:\Users\GuoZhi\Source\Workspaces\ExerciseProject\PackageIdentifier\PackageIdentifier.Test\bin\Debug\PackageIdentifier.Test.dll
+C:\Users\GuoZhi\Source\Workspaces\ExerciseProject\PackageIdentifier\PackageIdentifier.Test\bin\Debug\PackageIdentifier.Test.pdb
+C:\Users\GuoZhi\Source\Workspaces\ExerciseProject\PackageIdentifier\PackageIdentifier.Test\obj\Debug\PackageIdentifier.Test.csprojResolveAssemblyReference.cache
+C:\Users\GuoZhi\Source\Workspaces\ExerciseProject\PackageIdentifier\PackageIdentifier.Test\obj\Debug\PackageIdentifier.Test.dll
+C:\Users\GuoZhi\Source\Workspaces\ExerciseProject\PackageIdentifier\PackageIdentifier.Test\obj\Debug\PackageIdentifier.Test.pdb
+C:\Users\GuoZhi\Source\Workspaces\ExerciseProject\PackageIdentifier\PackageIdentifier.Test\bin\Debug\PackageIdentifier.BLL.dll
+C:\Users\GuoZhi\Source\Workspaces\ExerciseProject\PackageIdentifier\PackageIdentifier.Test\bin\Debug\PackageIdentifier.exe
+C:\Users\GuoZhi\Source\Workspaces\ExerciseProject\PackageIdentifier\PackageIdentifier.Test\bin\Debug\PackageIdentifier.BLL.pdb
+C:\Users\GuoZhi\Source\Workspaces\ExerciseProject\PackageIdentifier\PackageIdentifier.Test\bin\Debug\PackageIdentifier.pdb
+C:\Users\GuoZhi\Source\Workspaces\ExerciseProject\PackageIdentifier\PackageIdentifier.Test\bin\Debug\PackageIdentifier.Common.dll
+C:\Users\GuoZhi\Source\Workspaces\ExerciseProject\PackageIdentifier\PackageIdentifier.Test\bin\Debug\PackageIdentifier.Common.pdb
